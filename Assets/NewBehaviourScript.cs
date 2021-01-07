@@ -10,6 +10,11 @@ public class NewBehaviourScript : MonoBehaviour
         
     }
 
+    public void ShimaShima()
+    {
+
+    }
+
     // Update is called once per frame
     void Update()
     {
